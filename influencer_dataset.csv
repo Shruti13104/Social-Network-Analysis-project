@@ -1,0 +1,121 @@
+influencer_id,influencer_name,platform,category,audience,followers,avg_reach,engagement_rate,avg_likes,avg_comments,estimated_cost,conversion_rate,roi,location,content_type,audience_match_score
+INF001,Aarohi Sharma,YouTube,Fashion,Teens,343243,141152,9.99,8964,190,172000,5.43,4.2,Mumbai,Post,72.7
+INF002,Riya Joshi,Instagram,Beauty,Adults,323631,117994,6.19,5678,224,181300,4.62,5.36,Nagpur,Video,74.2
+INF003,Kabir Roy,YouTube,Fitness,Teens,120886,105952,7.16,4418,85,105600,4.7,5.35,Nagpur,Reel,83.2
+INF004,Anaya Kulkarni,Instagram,Beauty,Teens,442846,308110,11.0,22930,542,214700,5.0,5.2,Nagpur,Video,80.0
+INF005,Vihaan Gupta,Instagram,Fitness,Adults,445314,245215,7.39,11295,305,408900,4.93,4.48,Pune,Post,80.3
+INF006,Sara Singh,Instagram,Food,Young Adults,149530,133715,9.28,9243,423,130300,5.61,2.81,Nashik,Reel,72.0
+INF007,Ishaan Reddy,Instagram,Fitness,Adults,305365,254064,7.0,13861,454,277000,3.93,2.97,Nashik,Short,94.6
+INF008,Myra Mehta,Instagram,Technology,Adults,217400,119373,11.78,8415,313,180000,6.06,2.47,Mumbai,Short,77.6
+INF009,Arjun Patil,YouTube,Food,Teens,253392,162427,11.6,16039,248,205300,5.11,4.16,Nashik,Short,70.2
+INF010,Tara Desai,YouTube,Fitness,Adults,9701,8484,10.93,595,22,8000,6.34,5.63,Pune,Post,77.3
+INF011,Dev Malhotra,YouTube,Beauty,Teens,92698,59943,10.25,4519,67,56700,1.6,5.89,Pune,Reel,67.8
+INF012,Kiara Kapoor,YouTube,Beauty,Adults,262798,209926,11.65,18010,372,204900,6.52,2.53,Palghar,Post,88.5
+INF013,Aanya Jain,Instagram,Fitness,Teens,217186,194887,9.35,12816,490,110900,2.69,3.29,Mumbai,Reel,88.4
+INF014,Rahul Pawar,Instagram,Fitness,Adults,38866,18497,11.14,1753,31,22100,5.05,2.74,Nagpur,Post,90.9
+INF015,Meera Khan,Instagram,Fashion,Young Adults,431360,247550,5.46,10551,326,282800,6.08,2.04,Palghar,Video,91.4
+INF016,Aditya Nair,YouTube,Fitness,Teens,65288,31779,6.13,1377,46,38500,2.82,5.86,Mumbai,Reel,97.0
+INF017,Nisha Shah,Instagram,Technology,Young Adults,493683,377401,6.45,16850,617,435600,6.28,2.52,Nagpur,Video,79.0
+INF018,Karan Iyer,Instagram,Food,Teens,390995,350911,8.69,24439,536,234000,6.63,4.35,Mumbai,Short,81.6
+INF019,Simran Verma,YouTube,Fashion,Adults,455070,292209,5.2,11057,589,220400,1.86,5.59,Pune,Reel,85.4
+INF020,Yash Bansal,Instagram,Food,Young Adults,227794,162088,8.76,9381,250,178800,3.17,2.97,Nashik,Reel,65.3
+INF021,Diya Sharma,Instagram,Food,Young Adults,333666,300015,11.77,20326,499,194400,6.45,5.68,Pune,Short,92.5
+INF022,Rohan Joshi,Instagram,Beauty,Young Adults,376857,194603,11.69,18938,734,295400,4.44,5.9,Mumbai,Reel,89.5
+INF023,Ira Roy,Instagram,Fashion,Adults,89499,44730,9.03,3235,78,68700,2.9,3.95,Nagpur,Video,66.5
+INF024,Aman Kulkarni,Instagram,Beauty,Adults,182879,141569,9.26,8412,406,132700,3.77,1.84,Mumbai,Video,84.2
+INF025,Pooja Gupta,Instagram,Fashion,Young Adults,85643,50219,5.09,1732,98,80200,1.71,3.37,Thane,Short,97.1
+INF026,Neil Singh,YouTube,Technology,Adults,400942,174411,11.31,16818,991,343000,6.17,1.91,Palghar,Post,73.8
+INF027,Sneha Reddy,Instagram,Beauty,Teens,420811,309591,7.48,13050,472,231400,6.37,3.34,Palghar,Post,78.1
+INF028,Varun Mehta,Instagram,Fashion,Young Adults,154068,127166,11.57,9529,418,100100,6.7,4.16,Pune,Video,66.3
+INF029,Mahi Patil,YouTube,Fashion,Adults,320775,188939,9.9,12341,521,226400,3.54,4.34,Nagpur,Reel,82.2
+INF030,Aryan Desai,YouTube,Fitness,Young Adults,430843,278388,9.84,22179,1002,272300,1.87,4.72,Palghar,Reel,88.8
+INF031,Aarohi Malhotra,YouTube,Beauty,Adults,165455,104057,9.47,6544,303,120300,2.52,4.73,Thane,Video,78.4
+INF032,Riya Kapoor,Instagram,Fitness,Young Adults,445112,155888,6.81,7436,305,346000,3.96,3.75,Palghar,Post,86.7
+INF033,Kabir Jain,Instagram,Beauty,Teens,156785,99323,9.23,6117,317,129400,5.07,2.79,Mumbai,Post,97.5
+INF034,Anaya Pawar,Instagram,Beauty,Adults,328483,268487,5.31,9909,429,179800,5.19,3.98,Palghar,Reel,94.5
+INF035,Vihaan Khan,Instagram,Fashion,Young Adults,459118,355139,5.55,13773,315,426500,4.25,2.02,Pune,Short,87.0
+INF036,Sara Nair,YouTube,Beauty,Adults,301037,203952,11.45,20129,856,243700,4.18,5.45,Nagpur,Short,73.6
+INF037,Ishaan Shah,Instagram,Food,Young Adults,137624,111740,6.74,6192,227,78400,3.83,4.94,Nashik,Reel,69.6
+INF038,Myra Iyer,YouTube,Technology,Adults,129247,72464,5.87,2658,89,79500,3.97,2.07,Palghar,Reel,93.3
+INF039,Arjun Verma,Instagram,Technology,Teens,409392,272912,8.14,19548,555,264100,6.23,5.48,Nashik,Short,81.0
+INF040,Tara Bansal,Instagram,Technology,Adults,211873,113324,9.55,7483,167,144900,2.18,4.54,Thane,Reel,67.8
+INF041,Dev Sharma,YouTube,Food,Young Adults,232716,98819,8.03,4503,144,129400,3.23,5.15,Nashik,Reel,80.5
+INF042,Kiara Joshi,Instagram,Beauty,Teens,400704,259127,11.8,20562,910,336800,4.95,5.12,Thane,Post,72.9
+INF043,Aanya Roy,Instagram,Beauty,Young Adults,256282,184062,8.75,10086,468,213600,2.39,4.47,Mumbai,Reel,95.7
+INF044,Rahul Kulkarni,Instagram,Food,Adults,309883,223903,11.51,17751,837,151200,5.16,4.56,Thane,Reel,91.3
+INF045,Meera Gupta,YouTube,Fashion,Young Adults,304711,237811,7.23,12034,381,214200,3.31,5.54,Nashik,Short,88.3
+INF046,Aditya Singh,YouTube,Food,Teens,236320,105605,8.45,6939,296,215000,5.61,3.85,Mumbai,Video,94.1
+INF047,Nisha Reddy,YouTube,Food,Young Adults,135854,103624,8.79,7139,215,94700,3.22,3.95,Nashik,Video,83.3
+INF048,Karan Mehta,YouTube,Technology,Teens,278861,243009,5.4,10524,389,231200,5.16,4.64,Mumbai,Video,72.3
+INF049,Simran Patil,YouTube,Technology,Young Adults,370695,179348,9.45,11510,459,230500,6.78,4.22,Nashik,Video,72.6
+INF050,Yash Desai,YouTube,Fashion,Teens,386160,176058,5.64,7323,361,209500,2.65,3.93,Nashik,Post,76.9
+INF051,Diya Malhotra,YouTube,Fashion,Teens,166475,59561,8.54,3285,193,121000,5.2,2.36,Thane,Video,80.5
+INF052,Rohan Kapoor,Instagram,Beauty,Teens,238932,128399,11.56,9475,509,121100,1.85,3.96,Thane,Video,67.8
+INF053,Ira Jain,YouTube,Food,Adults,138123,57341,10.15,4436,224,77700,4.27,3.78,Nagpur,Video,83.8
+INF054,Aman Pawar,Instagram,Fitness,Teens,39578,27122,9.98,2386,58,22000,5.0,2.49,Pune,Reel,78.5
+INF055,Pooja Khan,YouTube,Fitness,Adults,369429,249954,6.84,10788,505,296100,3.91,4.82,Pune,Short,68.8
+INF056,Neil Nair,YouTube,Technology,Teens,125864,88885,11.16,8325,151,67100,3.13,5.1,Nagpur,Video,88.1
+INF057,Sneha Shah,Instagram,Beauty,Adults,150735,94248,8.26,4500,75,100400,3.21,2.9,Thane,Reel,98.0
+INF058,Varun Iyer,YouTube,Technology,Teens,360469,289017,8.83,20852,477,255700,3.84,3.02,Nagpur,Video,78.5
+INF059,Mahi Verma,Instagram,Technology,Teens,176326,126703,10.8,9105,420,104800,6.51,5.38,Nashik,Video,75.7
+INF060,Aryan Bansal,YouTube,Fitness,Young Adults,413037,236379,8.4,17787,793,297900,3.69,2.63,Palghar,Short,90.1
+INF061,Aarohi Sharma,Instagram,Beauty,Young Adults,114723,57003,5.72,2122,115,79400,1.65,4.57,Thane,Reel,83.2
+INF062,Riya Joshi,YouTube,Fitness,Adults,56868,26931,10.69,1697,97,44000,2.32,5.9,Nashik,Short,92.5
+INF063,Kabir Roy,YouTube,Technology,Young Adults,255579,123713,8.66,7330,414,180000,6.16,5.6,Thane,Video,92.1
+INF064,Anaya Kulkarni,YouTube,Fitness,Adults,156289,117111,10.66,9400,420,137900,3.87,3.93,Nagpur,Short,95.8
+INF065,Vihaan Gupta,YouTube,Technology,Adults,463921,210508,9.68,15285,389,388700,1.73,5.08,Palghar,Post,81.3
+INF066,Sara Singh,Instagram,Beauty,Young Adults,27408,11495,11.56,885,17,23900,2.03,5.81,Palghar,Post,67.5
+INF067,Ishaan Reddy,YouTube,Food,Adults,417744,368893,7.17,20959,927,365900,6.02,5.58,Palghar,Short,93.8
+INF068,Myra Mehta,Instagram,Technology,Teens,26821,18495,6.44,940,26,15100,1.98,6.1,Palghar,Video,94.8
+INF069,Arjun Patil,Instagram,Beauty,Teens,32112,16968,5.19,594,20,18400,3.68,4.8,Mumbai,Short,85.5
+INF070,Tara Desai,YouTube,Food,Adults,134264,83742,8.88,4694,205,91300,5.03,5.76,Thane,Post,67.4
+INF071,Dev Malhotra,YouTube,Fashion,Teens,189175,168972,6.89,10323,475,128300,3.1,6.2,Nagpur,Video,84.0
+INF072,Kiara Kapoor,Instagram,Fitness,Adults,374623,191948,11.65,17450,477,274600,5.13,5.08,Nagpur,Video,90.6
+INF073,Aanya Jain,Instagram,Fashion,Adults,128648,87980,7.27,4943,212,101500,5.32,4.7,Palghar,Reel,75.2
+INF074,Rahul Pawar,YouTube,Fitness,Adults,239118,88079,7.35,3858,215,146700,3.7,2.68,Nashik,Post,73.5
+INF075,Meera Khan,Instagram,Technology,Adults,440374,382818,11.57,28935,1567,375200,3.98,2.13,Nashik,Reel,91.1
+INF076,Aditya Nair,YouTube,Fashion,Adults,15297,7578,5.67,291,14,8900,3.52,4.61,Pune,Short,65.8
+INF077,Nisha Shah,YouTube,Fashion,Teens,471593,409693,7.1,22209,980,362000,3.96,4.88,Mumbai,Reel,75.0
+INF078,Karan Iyer,YouTube,Fitness,Adults,266277,110203,6.44,5238,170,169200,6.53,4.86,Palghar,Post,94.2
+INF079,Simran Verma,Instagram,Food,Teens,351367,142114,8.23,8103,468,163900,3.46,3.75,Palghar,Video,83.0
+INF080,Yash Bansal,Instagram,Fashion,Young Adults,346074,189396,7.59,8861,181,302500,3.91,4.72,Pune,Post,91.0
+INF081,Diya Sharma,Instagram,Food,Teens,115586,44816,10.16,2834,70,102300,3.24,2.45,Pune,Video,91.4
+INF082,Rohan Joshi,Instagram,Beauty,Adults,65633,46834,4.98,1294,65,37300,3.22,2.57,Nagpur,Reel,89.6
+INF083,Ira Roy,YouTube,Technology,Adults,257690,153725,7.33,8538,301,144500,4.76,5.0,Mumbai,Reel,98.0
+INF084,Aman Kulkarni,Instagram,Beauty,Young Adults,452228,258172,9.6,17884,1000,220100,1.93,4.48,Thane,Video,77.6
+INF085,Pooja Gupta,Instagram,Technology,Young Adults,321205,206151,7.98,12533,243,257200,6.02,4.66,Pune,Short,76.2
+INF086,Neil Singh,YouTube,Fashion,Teens,245764,139913,9.91,9142,265,141900,6.55,4.82,Mumbai,Reel,79.3
+INF087,Sneha Reddy,YouTube,Technology,Adults,398379,301309,10.48,23516,973,291100,3.25,2.34,Mumbai,Video,84.8
+INF088,Varun Mehta,Instagram,Food,Adults,192363,78287,8.35,3949,144,168100,3.36,4.25,Pune,Short,92.9
+INF089,Mahi Patil,Instagram,Food,Adults,410355,328339,9.1,23154,374,375300,5.9,2.98,Nashik,Video,76.6
+INF090,Aryan Desai,Instagram,Technology,Young Adults,103108,85417,8.76,5164,110,79000,1.66,5.08,Nagpur,Video,70.2
+INF091,Aarohi Malhotra,Instagram,Food,Young Adults,171387,128005,10.24,9813,184,81600,2.33,4.52,Palghar,Short,81.0
+INF092,Riya Kapoor,YouTube,Fashion,Teens,239758,138532,6.31,6375,194,121200,5.09,4.41,Nagpur,Reel,65.3
+INF093,Kabir Jain,Instagram,Technology,Adults,166030,144434,10.17,12007,336,84700,4.14,3.69,Palghar,Post,81.5
+INF094,Anaya Pawar,YouTube,Fitness,Young Adults,444917,319195,7.28,16009,774,297300,3.94,2.14,Thane,Short,88.4
+INF095,Vihaan Khan,YouTube,Fashion,Young Adults,226991,115591,7.64,7843,178,209700,3.94,4.83,Mumbai,Post,79.4
+INF096,Sara Nair,Instagram,Fitness,Adults,217951,139091,7.57,6934,209,134400,2.39,4.05,Pune,Video,76.6
+INF097,Ishaan Shah,Instagram,Beauty,Adults,437364,308338,5.83,10533,279,234800,2.31,5.14,Nagpur,Short,89.9
+INF098,Myra Iyer,YouTube,Beauty,Young Adults,406394,271758,9.57,22332,981,383300,3.21,6.07,Mumbai,Short,79.6
+INF099,Arjun Verma,YouTube,Fashion,Adults,166765,131407,8.94,7908,145,113500,1.7,3.42,Mumbai,Short,80.3
+INF100,Tara Bansal,Instagram,Fashion,Young Adults,298621,261241,9.97,14699,821,219700,2.5,4.46,Mumbai,Video,97.4
+INF101,Dev Sharma,YouTube,Food,Young Adults,52212,32763,6.01,1253,43,35000,4.27,2.5,Nagpur,Video,87.4
+INF102,Kiara Joshi,Instagram,Food,Teens,35454,27798,9.33,1486,28,28000,3.01,4.98,Thane,Post,95.3
+INF103,Aanya Roy,YouTube,Beauty,Adults,170650,150553,9.69,10025,418,156800,3.14,3.46,Palghar,Reel,86.3
+INF104,Rahul Kulkarni,Instagram,Beauty,Teens,229986,144814,4.93,4698,271,142800,5.56,2.64,Nashik,Reel,81.8
+INF105,Meera Gupta,Instagram,Beauty,Adults,290995,235506,10.99,14577,439,242400,2.19,3.46,Thane,Post,88.8
+INF106,Aditya Singh,Instagram,Food,Young Adults,30907,17801,9.53,1074,37,18300,5.47,3.78,Pune,Video,87.4
+INF107,Nisha Reddy,Instagram,Food,Teens,307064,273729,8.03,14256,458,219200,6.62,5.39,Palghar,Short,93.8
+INF108,Karan Mehta,Instagram,Technology,Teens,298739,258069,9.78,18438,380,147000,2.35,3.78,Pune,Short,94.2
+INF109,Simran Patil,Instagram,Food,Teens,495835,180815,5.17,6783,173,469700,3.49,1.92,Pune,Reel,74.5
+INF110,Yash Desai,Instagram,Beauty,Adults,443034,270184,10.62,23402,845,335700,6.3,1.88,Palghar,Short,68.7
+INF111,Diya Malhotra,YouTube,Fitness,Adults,159048,76454,5.65,2736,119,121100,1.83,5.48,Mumbai,Post,88.7
+INF112,Rohan Kapoor,Instagram,Fitness,Adults,160710,94189,9.1,5435,183,125700,1.95,6.09,Thane,Reel,77.9
+INF113,Ira Jain,Instagram,Fitness,Adults,254486,95163,7.51,4864,236,160000,1.86,2.86,Nashik,Post,66.5
+INF114,Aman Pawar,Instagram,Fashion,Adults,294268,157786,9.3,12335,565,276700,4.04,2.6,Nagpur,Reel,74.7
+INF115,Pooja Khan,Instagram,Beauty,Young Adults,30967,24312,11.0,1766,51,20100,5.82,3.88,Nashik,Reel,93.6
+INF116,Neil Nair,Instagram,Technology,Adults,182024,91060,10.4,6656,219,121900,6.57,3.29,Nagpur,Video,95.5
+INF117,Sneha Shah,Instagram,Fashion,Young Adults,280250,139199,5.38,5231,179,265600,2.46,3.09,Palghar,Video,75.1
+INF118,Varun Iyer,YouTube,Food,Adults,323947,241248,5.97,10159,356,263500,6.33,4.51,Mumbai,Reel,87.1
+INF119,Mahi Verma,Instagram,Beauty,Teens,220971,121494,10.41,9963,576,115200,4.72,5.24,Pune,Video,77.0
+INF120,Aryan Bansal,YouTube,Technology,Young Adults,305399,112329,5.87,4664,147,205200,1.91,2.41,Palghar,Video,73.2
